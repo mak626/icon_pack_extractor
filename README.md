@@ -1,2 +1,6 @@
-# icon_pack_extractor
-Extracts icons from an icon pack apk file into app_name.png files
+# Icon Pack Extractor
+Extracts all Icons from an Icon pack apk file and renames the icons extracted into **package_name.png** format
+
+### Usage
+
+`python extract.py icon_pack.apk`
