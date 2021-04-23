@@ -4,3 +4,5 @@ Extracts all Icons from an Icon pack apk file and renames the icons extracted in
 ### Usage
 
 `python extract.py icon_pack.apk`
+
+All icons will be found in `icons` folder after extraction
